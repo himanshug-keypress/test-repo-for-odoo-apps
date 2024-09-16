@@ -1,5 +1,5 @@
 {'name': 'Savan Payment Split',
-'summary': 'Multiple Payments at One Time',
+'summary': 'Savan Summary',
 'sequence': 1,
 'price': 20.0,
 'currency': 'USD',

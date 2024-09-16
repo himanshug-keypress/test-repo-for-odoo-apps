@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+    <data>
+
+        <record id="amount_tree_view_spt" model="ir.ui.view">
+            <field name="name">amount.tree.view.spt</field>
+            <field name="model">amount.spt</field>
+            <field name="arch" type="xml">
+                <tree string="Payment Amount">
+                    <field name="amount"/>
+                    <field name="journal_id"/>
+                </tree>
+            </field>
+        </record>
+
+    </data>
+</odoo>
